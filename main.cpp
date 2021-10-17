@@ -15,7 +15,7 @@ ec.ajouter_etudiant(ett) ;
 cout <<c <<endl;
 ec.afficher_etudiant() ;
 cout<<ec.rechercher_un_etudiant(29)  <<endl  ;
-//ss
+//ssxc
 //uhih
 //jyg
     return 0;
